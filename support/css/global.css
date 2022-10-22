@@ -1572,9 +1572,9 @@ body .fly-user-main {
 .fly-tip span {
   height: 20px;
   line-height: 20px;
-  padding: 0 5px;
-  background-color: #999;
-  color: #fff;
+  padding: 0 7px;
+  /* background-color: rgb(239, 246, 52);
+  color: rgb(248, 59, 59); */
   font-size: 12px;
   border-radius: 0;
 }
@@ -1604,7 +1604,7 @@ body .fly-user-main {
 
 .fly-list .fly-list-li {
   position: relative;
-  height: 45px;
+  height: 80px;
   margin-top: 0;
   padding: 10px 0 10px 75px;
   border-bottom: 1px dotted #E9E9E9;
@@ -2124,7 +2124,7 @@ body .fly-user-main {
   line-height: 28px;
   align-items: center;
   position: relative;
-  max-width: 600px;
+  max-width: 1500px;
   *display: inline;
   *zoom: 1;
   vertical-align: top;
@@ -2159,7 +2159,7 @@ body .fly-user-main {
   position: absolute;
   left: 1rem;
   fill: #9e9ea7;
-  width: 1rem;
+  width: 0rem;
   height: 1rem;
  }
 
